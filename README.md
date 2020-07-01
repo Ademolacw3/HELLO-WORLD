@@ -1,2 +1,3 @@
 # HELLO-WORLD
-Hello, my name is jubril, am a python developer
+Hello developers
+ my name is jubril, am a python developer
